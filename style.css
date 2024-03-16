@@ -1,0 +1,317 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.cong-bg-container {
+    background-image: url("https://t4.ftcdn.net/jpg/03/86/36/03/360_F_386360318_SZqWdwAWs1d3KrbpOPB6zPx5cHVc4LWN.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.offer-heading {
+    font-size: 30px;
+    font-family: bree Serif;
+    text-align: center;
+}
+
+.span-items {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.payment-form {
+    font-family: Roboto;
+    padding: 20px;
+}
+
+.card-img {
+    height: 50px;
+    width: 60px;
+    margin: 5px;
+}
+
+.payment-form-main-heading {
+    font-weight: 900;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.payment-form-details-heading {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.card-holder {
+    width: 60%;
+}
+
+.cvv {
+    width: 40%;
+}
+
+.payment-typing-box {
+    width: 100%;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: grey;
+    padding: 5px;
+}
+
+.selection-box {
+    text-align: center;
+    border-radius: 5px;
+    border-color: grey;
+    border-width: 2px;
+    padding: 3px;
+}
+
+.modal-header-bg {
+    background-color: #03393b;
+}
+
+.gift-section {
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.gift-section-modal-title {
+    color: orange;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+.nav-bg {
+    background-color: #03393b;
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: green;
+    border-radius: 80px;
+}
+
+.logo-para {
+    font-size: 10px;
+    font-weight: bold;
+    font-family: Caveat;
+    color: orange;
+}
+
+.logo-para2 {
+    font-size: 10px;
+    font-weight: bold;
+    font-family: Caveat;
+    color: lightblue;
+}
+
+.logo-para3 {
+    font-size: 12px;
+    font-family: Roboto;
+    color: lightblue;
+    font-style: italic;
+
+}
+
+.banner-section-bg-container {
+    background-image: url("https://c0.wallpaperflare.com/preview/184/811/591/blur-bread-rolls-counter-cup.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.banner-caption {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.custom-button {
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.custom-outline-button {
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
+
+.wcu-container {
+    font-family: Roboto;
+    background-color: #eeedfa;
+}
+
+.wcu-cont-heading {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.wcu-cont-para {
+    font-size: 20px;
+}
+
+.wcu-card-img {
+    width: 87px;
+    height: 90px;
+}
+
+.wcu-card-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.wcu-card-para {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.wcu-card {
+    border-radius: 15px;
+}
+
+.offers {
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.EM-container {
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.EM-cont-heading {
+    font-size: 30px;
+    margin-top: 10px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.EM-cont-para {
+    font-size: 18px;
+    color: grey;
+    font-family: Roboto;
+}
+
+.Em-items {
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.EM-items-heading {
+    color: black;
+    font-size: 17px;
+    font-style: italic;
+    margin-top: 30px;
+    text-align: left;
+}
+
+.EM-images {
+    width: 100%;
+    background-size: cover;
+}
+
+.healthy-food-container {
+    background-color: #f9fbfe;
+    padding: 10px;
+}
+
+.healthy-food-container-img {
+    width: 270px;
+}
+
+.healthy-food-container-text {
+    font-family: Roboto;
+    padding: 5px;
+}
+
+.healthy-food-container-heading {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+.healthy-food-container-paragraph {
+    color: grey;
+    font-family: Roboto;
+}
+
+.delivery-payment {
+    background-color: #f0f8ff;
+}
+
+.delivery-payment-image {
+    width: 270px;
+}
+
+.delivery-payment-text {
+    font-family: Roboto;
+    margin: 10px;
+}
+
+.payment-cards {
+    width: 50px;
+    margin-right: 10px;
+}
+
+.follow-section {
+    background-color: #03393b;
+}
+
+.follow-headind {
+    color: white;
+    font-size: 25px;
+    font-family: bree Serif;
+    margin-top: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.EM-items-heading {
+    color: black;
+    font-size: 17px;
+    font-style: italic;
+    margin-top: 30px;
+    text-align: left;
+}
+
+.EM-images {
+    width: 100%;
+    background-size: cover;
+}
+
+.healthy-food-container {
+    background-color: #f9fbfe;
+    padding: 10px;
+}
+
+.healthy-food-container-img {
+    width: 270px;
+}
+
+.healthy-food-container-text {
+    font-family: Roboto;
+    padding: 10px;
+}

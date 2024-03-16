@@ -1,27 +1,48 @@
 # Deepak-Satya_Food__App
 
-To include HTML code snippets in your README.md file, you can use triple backticks (
-) before and after the code block. For example:
+Take a New Floder and create a .HTML File in the vscode.
+After creating file in that Type tha code in HTML Language.
 
-html
+*//This is the sample HTML code for the project flie//*.
+HTML:
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hello, Word!</h1>
+</body>
+</html>
 
-
-
-
-
-
+This is the output:
 
 Hello, World!
 
 
 
+Similarly, you can include CSS structures and Designs code and type in the vs code and save it into the Floder.
 
+*//This is the sample CSS code for the project flie//*.
 
-Similarly, you can include CSS code snippets using triple backticks with the language specified after the first set of backticks. For example:
+CSS:
 
-css
 body {
 font-family: Arial, sans-serif;
 color: #333;
+padding: 10px;
+background color: black;
 }
+
+Steps for After completed the CSS code.
+
+Step1: Now link the CSS to HTML code.
+
+Step2: Now, click Right click of the mouse 
+
+Step3: Now, clickk on the Open with live server.
+
+Step4: It Connected to the server and it opend in chorme (like web application).

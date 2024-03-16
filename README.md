@@ -45,6 +45,6 @@ Step1: Now link the CSS to HTML code.
 
 Step2: Now, click Right click of the mouse 
 
-Step3: Now, clickk on the Open with live server.
+Step3: Now, click on the Open with live server.
 
 Step4: It Connected to the server and it opend in chorme (like web application).

@@ -4,6 +4,7 @@ Take a New Floder and create a .HTML File in the vscode.
 After creating file in that Type tha code in HTML Language.
 
 *//This is the sample HTML code for the project flie//*.
+index.html.
 HTML:
 
 <!DOCTYPE html>
@@ -37,9 +38,10 @@ padding: 10px;
 background color: black;
 }
 
-Steps for After completed the CSS code.
+Steps for After completed the CSS code and save file type of style.css.
 
 Step1: Now link the CSS to HTML code.
+<link rel="stylesheet" href="style.css">
 
 Step2: Now, click Right click of the mouse 
 
